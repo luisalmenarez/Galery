@@ -10,6 +10,9 @@ module.exports = {
       width: {
         95: "95%",
       },
+      boxShadow: {
+        custom: "0 10px 15px -3px rgba(255, 255, 255, 0.2), 0 4px 6px -4px rgba(255, 255, 255, 0.2);",
+      },
     },
   },
   plugins: [],
