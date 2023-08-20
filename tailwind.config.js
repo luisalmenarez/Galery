@@ -7,6 +7,9 @@ module.exports = {
       Raleway: ["Raleway", "sans-serif"],
     },
     extend: {
+      screens: {
+        lt: "300px",
+      },
       width: {
         95: "95%",
       },
