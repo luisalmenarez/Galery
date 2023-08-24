@@ -1,4 +1,4 @@
-#Project Gallery.
+# Project Gallery.
 
 En esta ocasión quise construir una galería de proyectos con el fin de tener un sitio donde pueda recopilar y mostrar todos los proyectos que he realizado.
 
